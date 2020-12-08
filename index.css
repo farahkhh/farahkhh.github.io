@@ -1,0 +1,13 @@
+
+body {
+	background-color: LightGray;
+}
+
+
+
+p {
+text-shadow: 10px 10px solid black;
+font-size: 17px;
+font-weight: bold;
+}
+
