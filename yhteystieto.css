@@ -1,0 +1,28 @@
+.nappi {
+	text-align: center;
+	margin: 20px;
+	background-color: DarkGrey;
+	border-color: Black;
+}
+
+
+body {
+	background-color: LightGray;
+}
+
+footer {
+  display: block;
+}
+
+
+p {
+
+font-size: 17px;
+font-weight: bold;
+}
+
+
+h1 {
+  color: black;
+  text-shadow: 2px 2px 4px #000000;
+}

@@ -1,0 +1,19 @@
+
+body {
+	background-color: LightGray;
+}
+
+
+
+p {
+font-size: 17px;
+font-weight: bold;
+}
+
+
+
+
+h1 {
+  color: black;
+  text-shadow: 2px 2px 4px #000000;
+}
